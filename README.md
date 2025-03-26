@@ -17,3 +17,8 @@ Libraries Used: pandas, scikit-learn, Streamlit
 Deployment: Streamlit Cloud
 
 Data Source: UW CS FTP Server
+
+🙌 Acknowledgments
+Special thanks to the UW CS FTP Server for providing the dataset.
+🔗 Links
+🔗 Live Demo: https://cancerdiagnosis.streamlit.app/
