@@ -7,8 +7,11 @@ This web application utilizes Logistic Regression with advanced techniques to ac
 # 📌 Features
 
 ✅ 97% Accuracy using Logistic Regression
+
 ✅ Utilizes the Breast Cancer Wisconsin (Diagnostic) Data Set
+
 ✅ User-friendly interface with enhanced CSS styling
+
 ✅ Deployed on Streamlit Cloud for real-time accessibility
 
 # 🛠️ Tech Stack
